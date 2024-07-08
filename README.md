@@ -1,2 +1,2 @@
-# Ocaml
+# OCaml
 OCaml Playground 
